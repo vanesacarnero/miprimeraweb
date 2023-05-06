@@ -1,0 +1,33 @@
+
+table, th, td {
+   
+    border: 1px solid black;
+    border-collapse: collapse;
+   }
+    
+#fondo {
+  background-color: blue;
+  color: dimgray;
+ 
+  }
+
+
+
+td span {
+  color: red;
+}
+
+span {
+  color: chartreuse;
+}  
+.center {
+  text-align: center;
+  width: 20px;
+  background-color: rgba(158, 98, 214, 0.61);
+}
+
+
+    
+
+
+
