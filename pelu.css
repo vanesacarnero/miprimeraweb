@@ -26,6 +26,16 @@ span {
   background-color: rgba(158, 98, 214, 0.61);
 }
 
+.button {
+  background-color: #9543cc; 
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
 
     
 
